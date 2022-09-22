@@ -1,0 +1,8 @@
+{
+  "Url": "test.rebex.net",
+  "Login": "demo",
+  "Password": "password",
+  "LocalPathToDownload": "C:/Users/*/Desktop",
+  "DBConnectionString": "Host=localhost;Port=;Database=dbName;Username=server name;Password=pass",
+  "RemoteFilePath": "/pub/example"
+}
